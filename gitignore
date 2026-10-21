@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+config.json
+*.fit
+*.tcx
+*.gpx
+*.csv
+*.zip
+GarminTraining/
+activiteiten/
