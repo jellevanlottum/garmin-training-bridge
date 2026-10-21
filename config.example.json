@@ -1,0 +1,6 @@
+{
+  "data_repository": "YOUR_GITHUB_USERNAME/YOUR_PRIVATE_DATA_REPOSITORY",
+  "training_directory": "~/GarminTraining",
+  "recent_runs": 30,
+  "recent_streams": 20
+}

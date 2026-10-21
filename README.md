@@ -76,4 +76,3 @@ Other users can select **Use this template** and create their own code repositor
 ## Licence
 
 MIT. Contributions and issue reports welcome; please never attach personal Garmin data or tokens to issues.
-# garmin-training-bridge
